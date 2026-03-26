@@ -11,3 +11,4 @@ will it make sense?
 will it make sense?
 will it make sense?
 I am fixing the bug now.
+Bug is now fixed.
